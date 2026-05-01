@@ -170,4 +170,4 @@ A few thousand dollars. There are multiple critical issues and it’s a medical 
 
 ### Would I sign up for FroggyHealthPortal?
 
-Not right now. Too many ways for attackers to get in or steal data. If they fix the command injection and the crypto problems, maybe — but in its current state, no chance.
+Not right now. Too many ways for attackers to get in or steal data. If they fix the command injection and the crypto problems, maybe, but in its current state, I don't think so.
